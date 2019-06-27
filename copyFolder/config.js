@@ -1,4 +1,5 @@
 module.exports = {
     inputDir: './src',
-    outputDir: ['./dist','./dist1']
+    outputDir: ['./dist','./dist1'],
+    baseDir:'./'
 };
